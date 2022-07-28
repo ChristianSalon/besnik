@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               Welcome to Besnik Agency
             </h4>
             <h1 className="text-[72px] leading-[70px] text-primaryDark font-bold">
-              Discover a place you'll love to live.
+              Discover a place you’ll love to live.
             </h1>
             <p className="text-gray-500">
               Get the best real estate deals first, before they hit the mass
@@ -112,7 +112,7 @@ const Home: NextPage = () => {
             How it works ?
           </h2>
           <p className="text-gray-500">
-            Everything you need to know when you're looking to buy, rent, or
+            Everything you need to know when you’re looking to buy, rent, or
             sell - all in one place.
           </p>
         </div>
@@ -156,7 +156,7 @@ const Home: NextPage = () => {
             <h2 className="text-4xl text-primaryDark font-semibold">
               Featured Properties
             </h2>
-            <p className="">Everything you need to know when you're looking</p>
+            <p className="">Everything you need to know when you’re looking</p>
           </div>
           <a href="#" className="text-[#0689FF]">
             View All Properties
@@ -293,7 +293,7 @@ const Home: NextPage = () => {
               Featured Properties
             </h2>
             <p className="text-gray-300">
-              Everything you need to know when you're looking
+              Everything you need to know when you’re looking
             </p>
             <a
               href="#"
